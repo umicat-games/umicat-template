@@ -1,4 +1,4 @@
-import { ORIENTATION_DIMENSIONS, type Orientation } from '@unboxy/phaser-sdk';
+import { ORIENTATION_DIMENSIONS, type Orientation } from '@umicat/phaser-sdk';
 
 // __ORIENTATION_LINE__ — overwritten by the agent-session-service scaffold
 // when a new game is created (gitManager.createGameFromFork). Edit ORIENTATION

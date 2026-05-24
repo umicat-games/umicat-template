@@ -1,5 +1,5 @@
 import Phaser from 'phaser';
-import { loadWorldScene, getEntityRegistry } from '@unboxy/phaser-sdk';
+import { loadWorldScene, getEntityRegistry } from '@umicat/phaser-sdk';
 import { GAME_WIDTH, GAME_HEIGHT } from '../config';
 
 /**

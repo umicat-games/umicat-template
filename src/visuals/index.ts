@@ -9,7 +9,7 @@
 // motion, no Math.random without seeded RNG. See the
 // `phaser-render-script` agent skill for the full contract and examples.
 
-import type { RenderScriptModule } from '@unboxy/phaser-sdk';
+import type { RenderScriptModule } from '@umicat/phaser-sdk';
 
 // `import.meta.glob` is a Vite feature — at build time it expands into a
 // static map of paths to module objects. The `eager: true` flag inlines

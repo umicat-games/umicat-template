@@ -1,5 +1,5 @@
 import Phaser from 'phaser';
-import { preloadManifest, getManifest } from '@unboxy/phaser-sdk';
+import { preloadManifest, getManifest } from '@umicat/phaser-sdk';
 import { GAME_WIDTH, GAME_HEIGHT } from '../config';
 
 /**
